@@ -1,3 +1,4 @@
+//Author: Deepali, Ghorpade, Ganesh B Solanke
 // This shell script is developed to get block device details, disk details, searching file, and getting status of searched file with details
 
 echo -e "\n Lists all BLOCK DEVICES"
